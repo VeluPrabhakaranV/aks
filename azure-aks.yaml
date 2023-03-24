@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mypythondockerrepo
-        image: myregistry1110.azurecr.io/veluprabhakaranvaks:latest
+        image: mywebapp1110.azurecr.io/veluprabhakaranv/aks:latest
         ports:
         - containerPort: 5000
 # service type loadbalancer       
